@@ -1,5 +1,11 @@
 # Airline-Management-System
 It's an C++ code for Airline Management System
+The Airline Management System is a C++ program that organizes flight schedules and
+passenger bookings. It uses an intuitive menu system to provide separate panels for
+administrators and passengers. Administrators can manage flights by adding, updating, or
+deleting records, while passengers can view flights, book tickets, and manage their
+reservations. The system employs structured programming, input validation, and automated ID
+generation for efficient data handling.
 
 **Pseudo Code:**
 1. Start
